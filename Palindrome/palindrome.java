@@ -31,12 +31,3 @@ class Solution_P {
         return (x == rev);
     }
 }
-
-public class palindrome {
-    public static void main(String[] args) {
-        Solution_P solution = new Solution_P();
-        int x = 121;
-        boolean result = solution.isPalindrome(x);
-        System.out.println(result);
-    }
-}

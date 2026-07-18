@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseInteger",
+            "request": "launch",
+            "mainClass": "ReverseInteger",
+            "projectName": "Leetcode-DSA_37bb12b3"
+        },
+        {
+            "type": "java",
             "name": "palindrome",
             "request": "launch",
             "mainClass": "palindrome",
