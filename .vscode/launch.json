@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Solution_S$StringToInteger",
+            "request": "launch",
+            "mainClass": "Solution_S$StringToInteger",
+            "projectName": "Leetcode-DSA_37bb12b3"
+        },
+        {
+            "type": "java",
             "name": "StringToInteger",
             "request": "launch",
             "mainClass": "StringToInteger",
