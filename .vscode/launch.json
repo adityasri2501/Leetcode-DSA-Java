@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringToInteger",
+            "request": "launch",
+            "mainClass": "StringToInteger",
+            "projectName": "Leetcode-DSA_37bb12b3"
+        },
+        {
+            "type": "java",
             "name": "ReverseInteger",
             "request": "launch",
             "mainClass": "ReverseInteger",

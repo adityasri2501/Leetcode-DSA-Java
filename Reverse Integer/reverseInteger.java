@@ -14,13 +14,3 @@ class Solution_R{
         return rev;
     }
 }
-
-class ReverseInteger {
-    public static void main(String [] args){
-        Solution_R solution = new Solution_R();
-        // int x = 1534236469;
-        int x = -321;
-        int result = solution.reverse(x);
-        System.out.println(result);
-    }
-}
