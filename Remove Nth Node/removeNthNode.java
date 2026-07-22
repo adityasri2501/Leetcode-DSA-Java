@@ -29,16 +29,3 @@ class Solution_Rn {
         return head;
     }
 }
-
-// public class removeNthNode {
-//     public static void main(String[] args) {
-//         Solution_Rn solution = new Solution_Rn();
-//         ListNode head = new ListNode(1);
-//         head.next = new ListNode(2);
-//         head.next.next = new ListNode(3);
-//         head.next.next.next = new ListNode(4);
-//         head.next.next.next.next = new ListNode(5);
-//         head = solution.removeNthFromEnd(head, 2);
-//         System.out.println(head);
-//     }
-// }

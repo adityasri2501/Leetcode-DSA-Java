@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "removeElement",
+            "request": "launch",
+            "mainClass": "removeElement",
+            "projectName": "Leetcode-DSA_37bb12b3"
+        },
+        {
+            "type": "java",
             "name": "removeDuplicate",
             "request": "launch",
             "mainClass": "removeDuplicate",
