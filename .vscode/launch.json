@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mergeSortedArray",
+            "request": "launch",
+            "mainClass": "mergeSortedArray",
+            "projectName": "Leetcode-DSA_37bb12b3"
+        },
+        {
+            "type": "java",
             "name": "removeElement",
             "request": "launch",
             "mainClass": "removeElement",
