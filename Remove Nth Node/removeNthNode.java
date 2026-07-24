@@ -21,9 +21,7 @@ class Solution_Rn {
             return null;
         }
         ListNode curr = head;
-        ListNode prev;
         while (curr != null) {
-            prev = curr.next;
             curr = curr.next;
         }
         return head;

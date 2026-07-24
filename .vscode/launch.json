@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "bestTime",
+            "request": "launch",
+            "mainClass": "bestTime",
+            "projectName": "Leetcode-DSA_37bb12b3"
+        },
+        {
+            "type": "java",
             "name": "mergeSortedArray",
             "request": "launch",
             "mainClass": "mergeSortedArray",
