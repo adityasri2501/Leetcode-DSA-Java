@@ -1,4 +1,4 @@
-class Solution_MaxPro {
+class Solution_MaxPro_Two {
     public int maxProduct(int n) {
 
         // Brute Force
