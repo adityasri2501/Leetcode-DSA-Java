@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "majorityElement",
+            "request": "launch",
+            "mainClass": "majorityElement",
+            "projectName": "Leetcode-DSA_37bb12b3"
+        },
+        {
+            "type": "java",
             "name": "containsDuplicate",
             "request": "launch",
             "mainClass": "containsDuplicate",
