@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "moveZeros",
+            "request": "launch",
+            "mainClass": "moveZeros",
+            "projectName": "Leetcode-DSA_37bb12b3"
+        },
+        {
+            "type": "java",
             "name": "maximumProductTwoElement",
             "request": "launch",
             "mainClass": "maximumProductTwoElement",
