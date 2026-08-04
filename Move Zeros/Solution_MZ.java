@@ -15,11 +15,3 @@ public class Solution_MZ {
         System.out.println(Arrays.toString(nums));
     }
 }
-
-class moveZeros {
-    public static void main(String[] args) {
-        Solution_MZ solution = new Solution_MZ();
-        int[] nums = { 0, 2, 0, 3 };
-        solution.MoveZeros(nums);
-    }
-}

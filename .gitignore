@@ -1,7 +1,3 @@
-# IntelliJ
+Leetcode-DSA.iml
 .idea/
-*.iml
-
-# Compiled Java files
-out/
-*.class
+.vscode/
