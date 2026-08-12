@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThreeSum",
+            "request": "launch",
+            "mainClass": "ThreeSum",
+            "projectName": "Leetcode-DSA_37bb12b3"
+        },
+        {
+            "type": "java",
+            "name": "majority_Element_II",
+            "request": "launch",
+            "mainClass": "majority_Element_II",
+            "projectName": "Leetcode-DSA_37bb12b3"
+        },
+        {
+            "type": "java",
             "name": "majorityElement",
             "request": "launch",
             "mainClass": "majorityElement",
