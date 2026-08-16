@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConatinerWithMostWater",
+            "request": "launch",
+            "mainClass": "ConatinerWithMostWater",
+            "projectName": "Leetcode-DSA_37bb12b3"
+        },
+        {
+            "type": "java",
+            "name": "sorting",
+            "request": "launch",
+            "mainClass": "sorting",
+            "projectName": "Leetcode-DSA_37bb12b3"
+        },
+        {
+            "type": "java",
+            "name": "Cycle",
+            "request": "launch",
+            "mainClass": "Cycle",
+            "projectName": "Leetcode-DSA_37bb12b3"
+        },
+        {
+            "type": "java",
             "name": "ThreeSum",
             "request": "launch",
             "mainClass": "ThreeSum",
