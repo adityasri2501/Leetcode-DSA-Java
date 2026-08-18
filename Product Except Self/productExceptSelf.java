@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Solution_PES {
     public int[] maxProduct(int[] nums) {
         int[] res = new int[nums.length];
