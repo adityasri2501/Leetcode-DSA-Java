@@ -1,8 +1,7 @@
-import java.util.ArrayList;
-import java.util.List;
-
 public class spiralMatrix {
-    public List<Integer> spiralOrder(int[][] arr) {
+    public static void main(String[] args) {
+
+        /*
         int n = arr.length;
         int m = arr[0].length;
         ArrayList<Integer> res = new ArrayList<>();
@@ -43,5 +42,46 @@ public class spiralMatrix {
             }
         }
         return res;
+
+        */
+        int arr[][] = {
+            {4,17,18,19,21},
+            {18,17,12,1,41},
+            {14,13,17,9,17}
+            };
+
+        int n = arr.length;
+        int m = arr[0].length;
+
+        int top = 0;
+        int bottom = n-1;
+        int left = 0;
+        int right = m-1;
+        int max_iter = n*m, iter_done = 1, i = top, j = left - 1;
+
+        while(iter_done <= max_iter){
+            if(i == top && j < right){
+                j++;
+                System.out.println(arr[i][j]);
+                iter_done++;
+            }else if(j == right && i < bottom){
+                i++;
+                System.out.println(arr[i][j]);
+                iter_done++;
+            }else if (i == bottom && j > left){
+                j--;
+                System.out.println(arr[i][j]);
+                iter_done++;
+            } else if(j == left && i > top + 1){
+                i--;
+                System.out.println(arr[i][j]);
+                iter_done++;
+            } else{
+                left++;
+                right--;
+                top++;
+                bottom--;
+            }
+        }
     }
 }

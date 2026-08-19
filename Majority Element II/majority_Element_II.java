@@ -10,49 +10,31 @@ class Solution_ME_II {
             }
             return list;
         }
-        int element = nums[0], count = 0, target = 0;
-        for (int i : nums) {
-            if (i == element) {
-                element = i;
-                count++;
-                if (count > Math.floorDiv(nums.length, 3)) {
-                    count = 0;
-                    target = element;
-                    list.add(i);
-                    break;
-                }
+        int num1 = nums[0], num2 = nums[1], count1 = 0, count2 = 0, n = nums.length;
+        for(int i: nums){
+            if(i == num1){
+                count1++;
+            } else if(i == num2){
+                count2++;
+            } else if(count1 == 0){
+                num1 = i;
+                count1 = 1;
+            } else if(count2 == 0){
+                num2 = i;
+                count2 = 1;
             } else {
-                count--;
+                count1--;
+                count2--;
             }
         }
 
-        for (int i:nums){
-            if (i != target){
-                element = i;
-                break;
-            }
+        if(count1 >= Math.floorDiv(n,3)){
+            list.add(num1);
+        }
+        if(count2 >= Math.floorDiv(n,3)){
+            list.add(num2);
         }
 
-        for (int i : nums) {
-            if (i == target) {
-                continue;
-            } else {
-                if (i == element) {
-                    element = i;
-                    count++;
-                    if (count > Math.floorDiv(nums.length , 3)) {
-                        count = 0;
-                        list.add(i);
-                        break;
-                    }
-                } else {
-                    count--;
-                    if (count < 0) {
-                        count = 0;
-                    }
-                }
-            }
-        }
         return list;
     }
 }
