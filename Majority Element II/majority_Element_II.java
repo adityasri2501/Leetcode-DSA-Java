@@ -6,7 +6,9 @@ class Solution_ME_II {
         List<Integer> list = new ArrayList<>();
         if (nums.length < 3) {
             for (int num : nums) {
-                list.add(num);
+                if(!list.contains(num)){
+                    list.add(num);
+                }
             }
             return list;
         }
@@ -28,13 +30,14 @@ class Solution_ME_II {
             }
         }
 
-        if(count1 >= Math.floorDiv(n,3)){
+        if(count1 > Math.floorDiv(n,3)){
             list.add(num1);
         }
-        if(count2 >= Math.floorDiv(n,3)){
+        if(count2 > Math.floorDiv(n,3)){
             list.add(num2);
         }
 
+        System.out.println(list);
         return list;
     }
 }
