@@ -1,19 +1,41 @@
-import java.util.TreeMap;
+import java.util.PriorityQueue;
+
+class Element implements Comparable<Element>{
+
+    Integer a;
+
+    Element(int e){
+        this.a = e;
+    }
+
+    @Override
+    public int compareTo(Element other){
+        return this.a.compareTo(other.a);
+    }
+
+}
 
 public class largestElement {
     public static void main(String[] args) {
-        TreeMap<Integer, Integer> map = new TreeMap<>();
+        int []nums = {3,2,1,5,6,4};
         int k = 2;
-        int []nums = {3,2, 2,1,5,6,4};
-        for(int i = 0; i< k; i++){
-            map.put(nums[i],i);
-        }
-        for(int i = k; i< nums.length; i++){
-            if (nums[i] > map.firstKey()) {
-                map.put(nums[i], i);
+
+        PriorityQueue<Element> pq = new PriorityQueue<>();
+
+        for(int i = 0; i< nums.length; i++){
+            Element e = new Element (nums[i]);
+            pq.add(e);
+            if(pq.size() > k){
+                pq.poll();
             }
         }
-        System.out.println(map);
 
+        int [] ans = new int[k];
+        for(int i = 0; i< k; i++){
+            Element e = pq.poll();
+            ans[i] = e.a;
+        }
+
+        System.out.println(ans[0]);
     }
 }
