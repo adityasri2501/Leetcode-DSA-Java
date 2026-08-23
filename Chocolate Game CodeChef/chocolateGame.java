@@ -57,6 +57,7 @@ class Codechef {
 
             }
             System.out.println(alice);
+            System.out.println(bob);
             turn++;
         }
         sc.close();
