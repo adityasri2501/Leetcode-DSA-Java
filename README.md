@@ -111,6 +111,7 @@ Happy coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -139,4 +140,8 @@ Happy coding! 🚀
 | [0162-find-peak-element](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0162-find-peak-element) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1539-kth-missing-positive-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
