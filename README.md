@@ -103,6 +103,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0035-search-insert-position) |
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
 ## Math
 |  |
@@ -128,4 +129,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
