@@ -104,6 +104,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
 ## Math
 |  |
@@ -133,4 +134,5 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
