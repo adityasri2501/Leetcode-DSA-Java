@@ -194,17 +194,21 @@ Happy coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
