@@ -156,6 +156,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
