@@ -109,6 +109,7 @@ Happy coding! 🚀
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1539-kth-missing-positive-number) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
 | ------- |
@@ -149,4 +150,16 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Greedy
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Sorting
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
