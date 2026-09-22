@@ -9,6 +9,7 @@ class Solution {
             }
             return list;
         }
+        
         int num1 = nums[0], num2 = nums[1], count1 = 0, count2 = 0, n = nums.length;
         for(int i: nums){
             if(i == num1){
