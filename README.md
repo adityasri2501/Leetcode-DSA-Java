@@ -119,6 +119,7 @@ Happy coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
@@ -164,6 +165,7 @@ Happy coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
