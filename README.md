@@ -121,6 +121,7 @@ Happy coding! 🚀
 | [0050-powx-n](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
 | ------- |
@@ -157,12 +158,14 @@ Happy coding! 🚀
 | [0021-merge-two-sorted-lists](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
