@@ -109,6 +109,7 @@ Happy coding! 🚀
 | [0162-find-peak-element](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1539-kth-missing-positive-number) |
@@ -175,6 +176,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
@@ -196,6 +198,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0141-linked-list-cycle) |
+| [0229-majority-element-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0229-majority-element-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -229,4 +232,12 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0148-sort-list) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
