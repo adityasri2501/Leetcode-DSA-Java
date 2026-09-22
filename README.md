@@ -104,6 +104,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
@@ -140,6 +141,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0162-find-peak-element) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1539-kth-missing-positive-number) |
@@ -175,4 +177,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
