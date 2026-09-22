@@ -107,6 +107,7 @@ Happy coding! 🚀
 | [0074-search-a-2d-matrix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -143,6 +144,7 @@ Happy coding! 🚀
 | [0035-search-insert-position](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1539-kth-missing-positive-number) |
 ## Recursion
@@ -159,6 +161,7 @@ Happy coding! 🚀
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
