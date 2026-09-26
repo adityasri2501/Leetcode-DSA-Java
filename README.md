@@ -258,6 +258,7 @@ Happy coding! 🚀
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1068-product-sales-analysis-i) |
