@@ -103,6 +103,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -273,6 +274,11 @@ Happy coding! 🚀
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
