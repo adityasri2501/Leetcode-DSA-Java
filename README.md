@@ -273,5 +273,6 @@ Happy coding! 🚀
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
