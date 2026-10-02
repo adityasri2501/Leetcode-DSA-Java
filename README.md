@@ -175,6 +175,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -269,4 +270,8 @@ Happy coding! 🚀
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1757-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
