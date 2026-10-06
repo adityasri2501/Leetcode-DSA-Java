@@ -105,6 +105,7 @@ Happy coding! 🚀
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -186,6 +187,7 @@ Happy coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -286,5 +288,6 @@ Happy coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
