@@ -117,6 +117,7 @@ Happy coding! 🚀
 | [0229-majority-element-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1539-kth-missing-positive-number) |
@@ -198,6 +199,7 @@ Happy coding! 🚀
 | [0148-sort-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
@@ -299,4 +301,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0219-contains-duplicate-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
