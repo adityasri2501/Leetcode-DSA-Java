@@ -184,6 +184,7 @@ Happy coding! 🚀
 | [0141-linked-list-cycle](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -288,6 +289,7 @@ Happy coding! 🚀
 | [0058-length-of-last-word](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -297,6 +299,7 @@ Happy coding! 🚀
 | ------- |
 | [0055-jump-game](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
