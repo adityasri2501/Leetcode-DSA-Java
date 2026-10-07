@@ -1,13 +1,6 @@
 class Solution {
     public int hIndex(int[] c) {
 
-        // if(c.length < 2){
-        //     // if(c[0] == 0){
-        //     //     return 0;
-        //     // }
-        //     return 1;
-        // }
-
         Arrays.sort(c);
 
         int low = 0, high = c.length - 1;
