@@ -222,6 +222,7 @@ Happy coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0229-majority-element-ii) |
@@ -285,6 +286,7 @@ Happy coding! 🚀
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
@@ -303,6 +305,7 @@ Happy coding! 🚀
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0219-contains-duplicate-ii) |
 ## Counting Sort
 |  |
