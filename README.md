@@ -127,6 +127,7 @@ Happy coding! 🚀
 | ------- |
 | [0029-divide-two-integers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
@@ -172,6 +173,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
@@ -289,6 +291,7 @@ Happy coding! 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0392-is-subsequence) |
@@ -311,4 +314,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0274-h-index](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0274-h-index) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
