@@ -107,6 +107,7 @@ Happy coding! 🚀
 | [0035-search-insert-position](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0136-single-number) |
@@ -182,6 +183,7 @@ Happy coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0141-linked-list-cycle) |
@@ -200,6 +202,7 @@ Happy coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
@@ -209,6 +212,7 @@ Happy coding! 🚀
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
 ## Linked List
 |  |
@@ -319,4 +323,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0067-add-binary) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
