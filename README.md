@@ -135,6 +135,7 @@ Happy coding! 🚀
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
+| [0633-sum-of-square-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0633-sum-of-square-numbers) |
 ## Enumeration
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Happy coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0633-sum-of-square-numbers) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1539-kth-missing-positive-number) |
 ## Recursion
@@ -194,6 +196,7 @@ Happy coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0633-sum-of-square-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
