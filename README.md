@@ -184,6 +184,7 @@ Happy coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
@@ -296,6 +297,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0067-add-binary) |
@@ -309,6 +311,7 @@ Happy coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0392-is-subsequence) |
@@ -333,4 +336,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0560-subarray-sum-equals-k) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
