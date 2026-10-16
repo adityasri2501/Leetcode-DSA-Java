@@ -255,6 +255,7 @@ Happy coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [2390-removing-stars-from-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -312,6 +313,7 @@ Happy coding! 🚀
 | [0125-valid-palindrome](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0392-is-subsequence) |
+| [2390-removing-stars-from-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -338,6 +340,7 @@ Happy coding! 🚀
 | ------- |
 | [0067-add-binary](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2390-removing-stars-from-a-string) |
 ## Bubble Sort
 |  |
 | ------- |
