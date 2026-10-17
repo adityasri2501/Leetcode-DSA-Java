@@ -123,6 +123,7 @@ Happy coding! 🚀
 | [0274-h-index](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0957-prison-cells-after-n-days](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0957-prison-cells-after-n-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -139,6 +140,7 @@ Happy coding! 🚀
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0633-sum-of-square-numbers) |
+| [0957-prison-cells-after-n-days](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0957-prison-cells-after-n-days) |
 ## Enumeration
 |  |
 | ------- |
@@ -187,6 +189,7 @@ Happy coding! 🚀
 | [0191-number-of-1-bits](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
+| [0957-prison-cells-after-n-days](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0957-prison-cells-after-n-days) |
 ## Two Pointers
 |  |
 | ------- |
@@ -248,10 +251,12 @@ Happy coding! 🚀
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0957-prison-cells-after-n-days](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0957-prison-cells-after-n-days) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0141-linked-list-cycle) |
+| [0957-prison-cells-after-n-days](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0957-prison-cells-after-n-days) |
 ## Stack
 |  |
 | ------- |
