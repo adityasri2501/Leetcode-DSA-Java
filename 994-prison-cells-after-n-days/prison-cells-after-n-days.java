@@ -55,18 +55,12 @@ class Solution {
 
         prev = new ArrayList<>(pres);
 
-        System.out.println("day = " + day);
-        System.out.println("last = " + last);
-
         int rem = (n - last) % (day - last);
-        System.out.println("rem = " + rem);
 
         int j = 0;
 
         while (j < rem) {
-            System.out.println("j = " + (j + 1));
             check(left, curr, right, pres, prev);
-            System.out.println("pres = " + pres);
             prev = new ArrayList<>(pres);
             left = -1;
             curr = 0;
@@ -77,7 +71,6 @@ class Solution {
         int[] ans = new int[pres.size()];
         for (int i = 0; i < pres.size(); i++) {
             ans[i] = pres.get(i);
-            System.out.println("i = " + i + " = " + ans[i]);
         }
 
         return ans;
