@@ -141,6 +141,7 @@ Happy coding! 🚀
 | [0342-power-of-four](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0633-sum-of-square-numbers) |
 | [0957-prison-cells-after-n-days](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0957-prison-cells-after-n-days) |
+| [2235-add-two-integers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2235-add-two-integers) |
 ## Enumeration
 |  |
 | ------- |
