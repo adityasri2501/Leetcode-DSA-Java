@@ -29,18 +29,18 @@ class Solution {
         }
 
         for (int j = 0; j < nums2.length; j++) {
-            System.out.println("j = " + nums2[j]);
+            // System.out.println("j = " + nums2[j]);
             if (ans.contains(nums2[j])) {
-                System.out.println("Found");
+                // System.out.println("Found");
                 got.add(nums2[j]);
             }
-            System.out.println("---------------------------------------");
+            // System.out.println("---------------------------------------");
         }
 
         int res[] = new int[got.size()];
         int k = 0;
         for (int i : got) {
-            System.out.println("i = " + i);
+            // System.out.println("i = " + i);
             res[k] = i;
             k++;
         }
