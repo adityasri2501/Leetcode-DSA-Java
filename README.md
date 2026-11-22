@@ -327,6 +327,7 @@ Happy coding! 🚀
 | [0125-valid-palindrome](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0392-is-subsequence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
