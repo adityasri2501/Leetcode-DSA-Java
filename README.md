@@ -131,6 +131,7 @@ Happy coding! 🚀
 | [1539-kth-missing-positive-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Happy coding! 🚀
 | [0633-sum-of-square-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0633-sum-of-square-numbers) |
 | [0957-prison-cells-after-n-days](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0957-prison-cells-after-n-days) |
 | [2235-add-two-integers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2235-add-two-integers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
 | ------- |
