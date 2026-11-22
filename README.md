@@ -123,6 +123,7 @@ Happy coding! 🚀
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0957-prison-cells-after-n-days](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0957-prison-cells-after-n-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -141,6 +142,7 @@ Happy coding! 🚀
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0633-sum-of-square-numbers) |
 | [0957-prison-cells-after-n-days](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0957-prison-cells-after-n-days) |
 | [2235-add-two-integers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2235-add-two-integers) |
@@ -228,6 +230,7 @@ Happy coding! 🚀
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
 |  |
