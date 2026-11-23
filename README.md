@@ -107,6 +107,7 @@ Happy coding! 🚀
 | [0035-search-insert-position](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -251,6 +252,7 @@ Happy coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
@@ -259,6 +261,7 @@ Happy coding! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0229-majority-element-ii) |
