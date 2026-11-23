@@ -15,34 +15,14 @@ class Solution {
                 }
             }
         }
-
-        // for (int i = 0; i < in.length; i++) {
-        //     System.out.println(i + " -> " + in[i]);
-        // }
-        // System.out.println("===============================================================");
-
-        // int a = 0, b = 0;
         boolean findb = false;
 
-        // finda = false, 
-
         for (int i = 0; i < in.length; i++) {
-            // System.out.println(i + " -> " + in[i]);
-            // if (in[i] > 0 && finda == false) {
-            //     a = in[i];
-            //     finda = true;
-            //     System.out.println("A found -> " + a + " => in[" + i + "] -> " + in[i]);
-            // }
-            if (i != -in[i] && findb == false) {
+            if (i != -in[i]) {
                 b = i;
                 findb = true;
-                // System.out.println("B found -> " + b + " => in[" + i + "] -> " + -in[i]);
                 break;
             }
-
-            // if (finda && findb) {
-            //     break;
-            // }
 
         }
 
