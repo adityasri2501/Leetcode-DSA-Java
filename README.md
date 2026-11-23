@@ -116,6 +116,7 @@ Happy coding! 🚀
 | [0136-single-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0219-contains-duplicate-ii) |
@@ -142,6 +143,7 @@ Happy coding! 🚀
 | [0029-divide-two-integers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
@@ -213,6 +215,7 @@ Happy coding! 🚀
 | [0141-linked-list-cycle](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0633-sum-of-square-numbers) |
