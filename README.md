@@ -128,6 +128,7 @@ Happy coding! 🚀
 | [0957-prison-cells-after-n-days](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0957-prison-cells-after-n-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -145,6 +146,7 @@ Happy coding! 🚀
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0633-sum-of-square-numbers) |
 | [0957-prison-cells-after-n-days](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0957-prison-cells-after-n-days) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [2235-add-two-integers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2235-add-two-integers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
@@ -372,6 +374,7 @@ Happy coding! 🚀
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Manacher
 |  |
@@ -397,4 +400,12 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
