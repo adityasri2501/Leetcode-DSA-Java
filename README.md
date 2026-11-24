@@ -252,6 +252,7 @@ Happy coding! 🚀
 | [0141-linked-list-cycle](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0707-design-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -413,6 +414,7 @@ Happy coding! 🚀
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0707-design-linked-list) |
 | [1352-product-of-the-last-k-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
