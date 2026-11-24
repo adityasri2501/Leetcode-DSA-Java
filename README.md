@@ -145,6 +145,7 @@ Happy coding! 🚀
 | [0067-add-binary](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -162,6 +163,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
@@ -374,6 +376,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2390-removing-stars-from-a-string) |
 ## Bubble Sort
