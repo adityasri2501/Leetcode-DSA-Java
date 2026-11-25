@@ -154,6 +154,7 @@ Happy coding! 🚀
 | [1352-product-of-the-last-k-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [2235-add-two-integers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
+| [3099-harshad-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3099-harshad-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
