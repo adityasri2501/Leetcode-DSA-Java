@@ -11,19 +11,12 @@ class Solution {
         put(s, maps);
         put(t, mapt);
 
-        System.out.println("maps = " + maps);
-        System.out.println("mapt = " + mapt);
-
         if(maps.size() != mapt.size()){
             return false;
         }
 
         for(Character i : maps.keySet()){
-            System.out.println("mapt.containsKey(i) = " + mapt.containsKey(i));
-            System.out.println("maps.get(i) == mapt.get(i) = " + (!maps.get(i).equals(mapt.get(i))));
-            System.out.println("maps.get(i) != mapt.get(i) = " + (!maps.get(i).equals(mapt.get(i))));
             if(!mapt.containsKey(i) || !maps.get(i).equals(mapt.get(i))){
-                System.out.println("i = " + i);
                 return false;
             }
         }
