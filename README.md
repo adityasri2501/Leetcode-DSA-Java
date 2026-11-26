@@ -156,6 +156,7 @@ Happy coding! 🚀
 | [2235-add-two-integers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3099-harshad-number) |
+| [3360-stone-removal-game](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
@@ -383,6 +384,7 @@ Happy coding! 🚀
 | [0258-add-digits](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3360-stone-removal-game) |
 ## Bubble Sort
 |  |
 | ------- |
