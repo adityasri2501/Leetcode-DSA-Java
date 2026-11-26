@@ -127,6 +127,7 @@ Happy coding! 🚀
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0724-find-pivot-index) |
 | [0957-prison-cells-after-n-days](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0957-prison-cells-after-n-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -394,6 +395,7 @@ Happy coding! 🚀
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0724-find-pivot-index) |
 | [1352-product-of-the-last-k-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Manacher
