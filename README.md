@@ -242,6 +242,7 @@ Happy coding! 🚀
 | [0075-sort-colors](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
@@ -276,6 +277,7 @@ Happy coding! 🚀
 | [0141-linked-list-cycle](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -351,6 +353,7 @@ Happy coding! 🚀
 | [0058-length-of-last-word](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0392-is-subsequence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2124-check-if-all-as-appears-before-all-bs) |
