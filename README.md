@@ -280,6 +280,7 @@ Happy coding! 🚀
 | [0242-valid-anagram](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0957-prison-cells-after-n-days](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0957-prison-cells-after-n-days) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
@@ -326,6 +327,7 @@ Happy coding! 🚀
 | ------- |
 | [0229-majority-element-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -355,6 +357,7 @@ Happy coding! 🚀
 | [0125-valid-palindrome](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0392-is-subsequence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2390-removing-stars-from-a-string) |
@@ -446,4 +449,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3934-smallest-unique-subarray) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
