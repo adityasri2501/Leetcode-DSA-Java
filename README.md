@@ -152,6 +152,7 @@ Happy coding! 🚀
 | [0258-add-digits](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0633-sum-of-square-numbers) |
 | [0957-prison-cells-after-n-days](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0957-prison-cells-after-n-days) |
@@ -366,6 +367,7 @@ Happy coding! 🚀
 | [0383-ransom-note](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0412-fizz-buzz) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
@@ -396,6 +398,7 @@ Happy coding! 🚀
 | ------- |
 | [0067-add-binary](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2390-removing-stars-from-a-string) |
 | [3360-stone-removal-game](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3360-stone-removal-game) |
