@@ -139,6 +139,7 @@ Happy coding! 🚀
 | [2965-find-missing-and-repeated-values](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3934-smallest-unique-subarray](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3934-smallest-unique-subarray) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -236,6 +237,7 @@ Happy coding! 🚀
 | [0135-candy](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -248,6 +250,7 @@ Happy coding! 🚀
 | [0455-assign-cookies](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -453,4 +456,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/adityasri2501/Leetcode-DSA-Java/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
